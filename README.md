@@ -23,8 +23,10 @@ Kesulitan yang dihadapi dalam membuat rangkaian struktur website yang diinginkan
 
 Kesulitan berikutnya adalah membuat semantic commit messages untuk github. Referensi yang diberikan cukup membantu, tetapi belum mengetahui batasan yang jelas antara satu message dengan message lainnya. Saya juga masih mengalami kesulitan melakukan commit, push, pull, dan command sederhana git tanpa github desktop. 
 
-#### Identitas Pembuat
+## Identitas Pembuat
 Samuel Chris Michael Bagasta Simanjuntak
 19623302
 Klan P
+
+
 
